@@ -1,4 +1,4 @@
-name: Sync output.html from BMH7
+name: Sync output.html from GGG
 
 on:
   schedule:
